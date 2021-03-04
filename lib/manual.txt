@@ -1,0 +1,25 @@
+# Electronic tool
+Logic2  UI logic analyser
+https://www.saleae.com/downloads2/
+
+# Security tool
+Kaspersky Security Cloud
+https://my.kaspersky.com/MyDownloads
+
+# Virtualization
+https://hub.docker.com/editions/community/docker-ce-desktop-mac/
+
+iStatistica Sensor
+https://www.imagetasks.com/istatistica/download-plugin/
+
+# Bechmark
+BasenarkGPU
+https://www.basemark.com/benchmarks/basemark-gpu/
+
+# Qligent office apps
+MS Word, MS Excel, OneDrive
+
+# Pixel Art
+PixelEdit
+https://pyxeledit.com/get.php
+or from pkg
