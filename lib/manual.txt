@@ -16,10 +16,13 @@ https://www.imagetasks.com/istatistica/download-plugin/
 BasenarkGPU
 https://www.basemark.com/benchmarks/basemark-gpu/
 
-# Qligent office apps
-MS Word, MS Excel, OneDrive
-
 # Pixel Art
 PixelEdit
 https://pyxeledit.com/get.php
 or from pkg
+
+# Work office apps
+MS Word, MS Excel, OneDrive get from corp portal
+
+# IDE 
+JetBrains IDE (InelliIdea, Pycharm, Goland, WebStorm, DataGrip) you can install from Jetbrains Toolbox
