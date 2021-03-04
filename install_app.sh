@@ -19,6 +19,9 @@ echo "Installing SDKman packages"
 source lib/sdk-install-apps.sh
 
 # Install ENV
+git config --global user.name "Vladislav Gasanov"
+git config --global user.email "kosmoflyko@gmail.com"
+
 cat << 'EOF'  > ~/.zshrc
 
 autoload -Uz compinit && compinit
