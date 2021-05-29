@@ -13,16 +13,44 @@ brew install node yarn webpack
 brew install pyenv pipenv
 
 # Haxe
-brew install haxe neko
+#brew install haxe neko
+
+# .Net
+#brew install mono-libgdiplus
+#brew install --cask dotnet-sdk
 
 # Test tool
 brew install jmeter postman charles wireshark
 
 # Virtualization tools
-brew install docker docker-compose docker-completion docker-compose-completion helm xhyve vagrant virtualbox virtualbox-extension-pack
+brew install xhyve vagrant virtualbox virtualbox-extension-pack
+
+# Containers
+brew install docker docker-compose docker-completion docker-compose-completion helm
+
+# K8s
+brew install minikube
+
+# OpenShift
+#brew install --cask minishift
 
 # IDE and dev tools
-brew install visual-studio-code pgadmin4 another-redis-desktop-manager maven-completion scenebuilder jetbrains-toolbox
+brew install visual-studio-code maven-completion scenebuilder jetbrains-toolbox
+
+# PG Admin
+# (Comment because I use DBeaver and DataGrip)
+# brew install pgadmin4 
+
+# Redis Manager
+brew install another-redis-desktop-manager
+
+# DBeaver
+brew install --cask dbeaver-community
+# requires Java8+:
+# brew install --cask adoptopenjdk
+
+# BPM develop (Camunda)
+brew install camunda-modeler
 
 # Messangers
 brew install microsoft-teams skype zoom
@@ -48,7 +76,7 @@ brew install vlc obs
 
 # System tool
 #brew install paragon-ntfs
-# brew install coconutbattery 
+#brew install coconutbattery #Only for notebook
 brew install macs-fan-control rectangle iterm2 cleanmymac
 #brew install lunar
 

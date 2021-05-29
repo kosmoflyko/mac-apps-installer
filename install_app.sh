@@ -3,6 +3,17 @@
 # Install apps on clean Mac
 ###########
 
+# System settings
+#
+# Bluetooth codec activated
+sudo defaults write bluetoothaudiod "Enable AAC codec" -bool true
+sudo defaults write bluetoothaudiod "Enable AptX codec" -bool true
+#
+# For check activate codec run:
+#
+# sudo defaults read bluetoothaudiod
+#
+
 # Install Brew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 echo "Install brew packages"

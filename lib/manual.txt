@@ -26,3 +26,6 @@ MS Word, MS Excel, OneDrive get from corp portal
 
 # IDE 
 JetBrains IDE (InelliIdea, Pycharm, Goland, WebStorm, DataGrip) you can install from Jetbrains Toolbox
+
+# DevStack (local OpenStack)
+https://docs.openstack.org/nova/queens/contributor/development-environment.html
