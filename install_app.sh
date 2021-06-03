@@ -13,6 +13,13 @@ sudo defaults write bluetoothaudiod "Enable AptX codec" -bool true
 #
 # sudo defaults read bluetoothaudiod
 #
+# Disable throttle mode for Time Machine
+#
+sudo sysctl debug.lowpri_throttle_enabled=0
+#
+# For disable force mode run:
+# sudo sysctl debug.lowpri_throttle_enabled=1
+#
 
 # Install Brew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
