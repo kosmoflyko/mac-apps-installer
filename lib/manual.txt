@@ -1,31 +1,46 @@
 # Electronic tool
-Logic2  UI logic analyser
+## Logic2  
+UI logic analyser
 https://www.saleae.com/downloads2/
 
 # Security tool
-Kaspersky Security Cloud
+## Kaspersky Security Cloud
 https://my.kaspersky.com/MyDownloads
 
 # Virtualization
+## Docker
 https://hub.docker.com/editions/community/docker-ce-desktop-mac/
 
-iStatistica Sensor
+# DevStack 
+local dev stand for OpenStack
+https://docs.openstack.org/nova/queens/contributor/development-environment.html
+
+# Monitoring
+## iStatistica Sensor
 https://www.imagetasks.com/istatistica/download-plugin/
 
 # Bechmark
-BasenarkGPU
+## BasenarkGPU
 https://www.basemark.com/benchmarks/basemark-gpu/
 
-# Pixel Art
-PixelEdit
+# Art
+## PixelEdit
 https://pyxeledit.com/get.php
 or from pkg
 
-# Work office apps
+# Office
+## MS Office apps
 MS Word, MS Excel, OneDrive get from corp portal
 
 # IDE 
-JetBrains IDE (InelliIdea, Pycharm, Goland, WebStorm, DataGrip) you can install from Jetbrains Toolbox
+## JetBrains IDE 
+(InelliIdea, Pycharm, Goland, WebStorm, DataGrip) you can install from Jetbrains Toolbox
 
-# DevStack (local OpenStack)
-https://docs.openstack.org/nova/queens/contributor/development-environment.html
+# Fun
+## Chiptune
+ZX Tune (Player chiptune music)
+https://zxtune.bitbucket.io/
+
+## Fuse
+ZX Spectrum emulator
+http://fuse-emulator.sourceforge.net/
