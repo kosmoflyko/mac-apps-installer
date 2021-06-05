@@ -7,6 +7,10 @@ https://www.saleae.com/downloads2/
 ## Kaspersky Security Cloud
 https://my.kaspersky.com/MyDownloads
 
+## Funter
+Show hiden files on NTFS/FAT
+https://nektony.com/funter
+
 # Virtualization
 ## Docker
 https://hub.docker.com/editions/community/docker-ce-desktop-mac/

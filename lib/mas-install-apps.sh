@@ -10,12 +10,6 @@ mas install 1515213004 # Session Pal (1.7)
 mas install 1477385213 # Save to Pocket (1.1)
 mas install 1432731683 # Adblock Plus (2.1.8) 
 
-# Utility
-mas install 430255202  # Mactracker (7.10.3)
-mas install 1025822138 # iStatistica (5.0.1)
-mas install 1037126344 # Apple Configurator 2 (2.13.3)
-mas install 1452453066 # Hidden Bar (1.7)
-
 # Remote Desktop
 mas install 1295203466 # Microsoft Remote Desktop (10.5.1)
 #mas install 715768417 # Microsoft Remote Desktop (8.0.30030)
@@ -40,10 +34,13 @@ mas install 1438772273 # Cinebench (23.2)
 mas install 425264550  # Disk Speed Test (3.3)
 
 # System tools
+mas install 430255202  # Mactracker (7.10.3)
+mas install 1025822138 # iStatistica (5.0.1)
 mas install 411643860  # DaisyDisk (4.12.1)
 mas install 937984704  # Amphetamine (5.1.1)
 mas install 405843582  # Alfred (1.2)
 mas install 1452453066 # Hidden Bar (1.7)
+mas install 1037126344 # Apple Configurator 2 (2.13.3)
 mas install 470158793  # Keka (1.2.11)
 
 # Messanger
@@ -70,7 +67,7 @@ mas install 1140461273 # Kaspersky Password Manager (9.5.0)
 mas install 1208561404 # Kaspersky VPN (2.8.0) 
 
 # Virtualization
-# das install 1230249825 # VMware Remote Console (12.0.0)
+#mas install 1230249825 # VMware Remote Console (12.0.0)
 
 # Music
 mas install 682658836 # GarageBand (10.4.2) 
