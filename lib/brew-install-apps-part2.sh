@@ -37,8 +37,8 @@ brew install virtualbox                     # GUI: Free hypervizor VirtualBox
 brew install virtualbox-extension-pack      # ---: Extension pack for VirtualBox
 
 # Containers
-brew install docker                         # CLI: Docker container
-brew install docker-compose                 # CLI: Docker compose (simple packet manager for docker)
+#brew install docker                         # CLI: Docker container
+#brew install docker-compose                 # CLI: Docker compose (simple packet manager for docker)
 brew install docker-completion              # ---: Shell completion for Docker
 brew install docker-compose-completion      # ---: Shell completion for Docker compose
 brew install helm                           # CLI: Packet manager for K8s
@@ -108,20 +108,6 @@ brew install macs-fan-control               # GUI: Control fan on your Mac
 brew install iterm2                         # GUI: The best terminal
 brew install cleanmymac                     # GUI: Clean your Mac
 #brew install lunar                         # GUI: Calibrate monitor ligthning
-
-# System CLI tools
-brew install htop                           # CLI: Show process list
-brew install jq                             # CLI: JSON parser
-brew install mas                            # CLI: Install Apps from Apple Store
-brew install screen                         # CLI: Switch terminals without break it
-
-# Disk tool 
-#brew install diskmaker-x                   # GUI: Make boot Mac OS disk for release before Big Sur (not compatible with Big Sur)
-brew install balenaetcher                   # GUI: Make boot USB/SD card
-brew install unetbootin                     # GUI: Make boot USB
-brew install smartmontools                  # CLI: Get SMART data of your disk
-brew install disk-drill                     # GUI: Repair information from disk
-#brew install drivedx                       # GUI: Monitoring your disk
 
 # Network tool
 brew install openvpn-connect                # CLI: OpenVpn client

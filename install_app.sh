@@ -21,6 +21,11 @@ sudo sysctl debug.lowpri_throttle_enabled=0
 # sudo sysctl debug.lowpri_throttle_enabled=1
 #
 
+# Xcode tool
+xcode-select --install
+# Read and agree license
+sudo xcodebuild -license
+
 # Install Brew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 echo "Install brew packages"

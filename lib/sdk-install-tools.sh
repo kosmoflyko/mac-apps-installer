@@ -21,7 +21,7 @@ sdk install gradle
 sdk install gradleprofiler
 sdk install maven
 #sdk install mvnd
-#sdk install pomchecker
+sdk install pomchecker
 #sdk install lazybones
 #sdk install infrastructor
 
