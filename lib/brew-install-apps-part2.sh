@@ -37,10 +37,10 @@ brew install virtualbox                     # GUI: Free hypervizor VirtualBox
 brew install virtualbox-extension-pack      # ---: Extension pack for VirtualBox
 
 # Containers
-#brew install docker                         # CLI: Docker container
-#brew install docker-compose                 # CLI: Docker compose (simple packet manager for docker)
-brew install docker-completion              # ---: Shell completion for Docker
-brew install docker-compose-completion      # ---: Shell completion for Docker compose
+brew install docker                         # CLI: Docker container
+brew install docker-compose                 # CLI: Docker compose (simple packet manager for docker)
+#brew install docker-completion              # ---: Shell completion for Docker
+#brew install docker-compose-completion      # ---: Shell completion for Docker compose
 brew install helm                           # CLI: Packet manager for K8s
 
 # K8s
